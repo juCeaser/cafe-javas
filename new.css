@@ -1,0 +1,21 @@
+h1 {
+    color: red;
+    background-color: black;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    text-align: center;
+    text-shadow: red;
+    border: black;
+    height:150px;
+    width: 200px;
+    
+}
+
+p {
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+
+}
